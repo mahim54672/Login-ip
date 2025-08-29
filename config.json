@@ -11,6 +11,12 @@
       "password": "user2password",
       "status": "blocked",
       "expiry_date": "2025-08-30"
+    },
+    {
+      "email": "tanvir@00",
+      "password": "Tanvir",
+      "status": "active",
+      "expiry_date": "2025-09-30"
     }
   ]
 }
