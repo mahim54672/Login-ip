@@ -17,6 +17,12 @@
       "password": "Tanvir",
       "status": "blocked",
       "expiry_date": "2025-09-30"
+    },
+    {
+      "email": "mdmahimgoogl@gmail.com",
+      "password": "Tanvir@00",
+      "status": "active",
+      "expiry_date": "2025-08-20"
     }
   ]
 }
